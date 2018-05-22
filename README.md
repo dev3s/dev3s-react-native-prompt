@@ -19,7 +19,7 @@ $ npm install dev3s-react-native-prompt --save
 ## Basic Usage
 
 ```js
-import Prompt from 'react-native-prompt';
+import Prompt from 'dev3s-react-native-prompt';
 
 // Inside render()
 <Prompt
