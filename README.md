@@ -68,9 +68,9 @@ npm test
 
 ## Changelog
 
-### 1.0.1
+### 1.0.2
 
-- Fixed compatibility with React Native 0.55.2
+- Fixed compatibility with React Native 0.55.2.
 
 ### 1.0.0
 

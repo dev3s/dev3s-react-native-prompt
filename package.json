@@ -1,10 +1,10 @@
 {
   "name": "dev3s-react-native-prompt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A cross-platform prompt component for React Native. (~0.55.2)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev3solutions/dev3s-react-native-prompt.git"
+    "url": "git+https://github.com/dev3s/dev3s-react-native-prompt.git"
   },
   "scripts": {
     "install:example": "cd PromptExample && npm install",
@@ -50,9 +50,9 @@
     "wd": "^0.4.0"
   },
   "bugs": {
-    "url": "https://github.com/dev3solutions/dev3s-react-native-prompt/issues"
+    "url": "https://github.com/dev3s/dev3s-react-native-prompt/issues"
   },
-  "homepage": "https://github.com/dev3solutions/dev3s-react-native-prompt#readme",
+  "homepage": "https://github.com/dev3s/dev3s-react-native-prompt#readme",
   "directories": {
     "test": "test"
   }
